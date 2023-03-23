@@ -143,7 +143,7 @@ function PairList({ pairs, color, disbaleLinks, maxItems = 10, useTracked = fals
   const below600 = useMedia('(max-width: 600px)')
   const below740 = useMedia('(max-width: 740px)')
   const below1080 = useMedia('(max-width: 1080px)')
-
+  console.log('PAIRS', pairs)
   // pagination
   const [page, setPage] = useState(1)
   const [maxPage, setMaxPage] = useState(1)
@@ -184,7 +184,7 @@ function PairList({ pairs, color, disbaleLinks, maxItems = 10, useTracked = fals
 
       const apy = formattedPercent(
         ((pairData.oneDayVolumeUSD ? pairData.oneDayVolumeUSD : pairData.oneDayVolumeUntracked) * FEE * 365 * 100) /
-          (pairData.oneDayVolumeUSD ? pairData.trackedReserveUSD : pairData.reserveUSD)
+        (pairData.oneDayVolumeUSD ? pairData.trackedReserveUSD : pairData.reserveUSD)
       )
 
       const weekVolume = formattedNum(

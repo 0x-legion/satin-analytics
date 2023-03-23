@@ -268,10 +268,10 @@ async function getGlobalData(ethPrice, oldEthPrice) {
     })
     const twoWeekData = twoWeekResult.data.uniswapFactories[0]
 
-    // console.log('global data, data', data)
-    // console.log('global data, oneDayData', oneDayData)
-    // console.log('global data, twoDayData', twoDayData)
-    // console.log('global data, twoWeekData', twoWeekData)
+    console.log('global data, data', data)
+    console.log('global data, oneDayData', oneDayData)
+    console.log('global data, twoDayData', twoDayData)
+    console.log('global data, twoWeekData', twoWeekData)
 
     if (data && oneDayData && twoDayData && twoWeekData) {
       let [oneDayVolumeUSD, volumeChangeUSD] = get2DayPercentChange(
@@ -711,7 +711,7 @@ export function useTopLps() {
             if (results) {
               return results.liquidityPositions
             }
-          } catch (e) {}
+          } catch (e) { }
         })
       )
 
