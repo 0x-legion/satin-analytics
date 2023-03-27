@@ -299,7 +299,95 @@
       "name": "CASH",
       "symbol": "CASH",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/stablfi_32.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/27558/small/cash.png?1677063931"
+    },
+    {
+      "chainId": 137,
+      "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+      "name": "Fantom Bomb",
+      "symbol": "fBomb",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/small/logo-blue.png?1646376874"
+    },
+    {
+      "chainId": 137,
+      "address": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
+      "name": "Monerium EUR emoney",
+      "symbol": "EURe",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20920.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+      "name": "Frax Share",
+      "symbol": "FXS",
+      "decimals": 18,
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F13423%2Fsmall%2FethCanonicalFXS.png%3F1669276861&w=64&q=75"
+    },
+    {
+      "chainId": 137,
+      "address": "0x2760e46d9bb43dafcbecaad1f64b93207f9f0ed7",
+      "name": "MetaVault Trade",
+      "symbol": "MVX",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19973.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x491a4eb4f1fc3bff8e1d2fc856a6a46663ad556f",
+      "name": "BZR",
+      "symbol": "BZR",
+      "decimals": 18,
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.coingecko.com%2Fcoins%2Fimages%2F8472%2Fsmall%2FMicrosoftTeams-image_%25286%2529.png%3F1674480131&w=64&q=75"
+    },{
+      "chainId": 137,
+      "address": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
+      "name": "Jarvis Synthetic Euro",
+      "symbol": "JEUR",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22744.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xff1674d39def5d3840f4021fad2c5d4f20520557",
+      "name": "Okse",
+      "symbol": "OKSE",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/21708.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x62f594339830b90ae4c084ae7d223ffafd9658a7",
+      "name": "Sphere Finance",
+      "symbol": "Sphere",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18945.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xd23ed8ca350ce2631f7ecdc5e6bf80d0a1debb7b",
+      "name": "Tarot",
+      "symbol": "TAROT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11409.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+      "name": "Liquid staking matic",
+      "symbol": "maticx",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19923.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0xf0f14634971c43d872d1cf1785195c0ce1000a9d",
+      "name": "Libera Finance",
+      "symbol": "LIBERA",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20791.png"
     }
+    
   ]
 }
